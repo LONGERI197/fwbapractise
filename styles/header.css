@@ -1,0 +1,22 @@
+.header{
+  background-color: aqua;
+  height: 55px;
+  display: flex;
+  flex-direction: row;
+}
+.left-section{
+background-color: bisque;
+margin-right: 20px;
+}
+.right-section{
+background-color: hotpink;
+margin-right: 20px;
+margin-left: 20px;
+}
+.middle-section{
+  background-color: coral;
+
+}
+.searchbar{
+  flex: 1;
+}

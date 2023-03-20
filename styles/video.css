@@ -1,0 +1,28 @@
+<style>
+.thumbnail {
+  width: 400px;
+  height: 300px;
+  border-width: 3px;
+  border-color: green;
+  border-style: solid;
+  display:inline-block;
+
+}
+.video-title{
+  color:black;
+  width: 300px;
+}
+.video-stats{
+
+}
+
+.video-description {
+
+}
+.video-preview{
+  width: 400px;
+  display: inline-block;
+  margin-right: 20px;
+  vertical-align: top;
+}
+</style>
